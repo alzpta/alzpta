@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata · Alan Neil" width="980">
+ 
 </p>
 
 <h1 align="center">👋 Hola, soy Aldair Zapata <sub>(Alan Neil)</sub></h1>
