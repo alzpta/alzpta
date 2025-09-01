@@ -3,6 +3,13 @@
 <p align="center">
   <img src="./assets/banner-liquidglass-readme.png" alt="Interfaces sobrias, precisas y con acabado Liquid Glass" width="980">
 </p>
+## 📑 Índice
+
+- [✨ Sobre mí](#-sobre-mí)
+- [🚀 Proyectos Destacados](#-proyectos-destacados)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📊 GitHub Stats](#-github-stats)
+- [📬 Contacto](#-contacto)
 <h1 align="center">Aldair Zapata</h1>
 <p align="center">
   Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
