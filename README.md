@@ -3,7 +3,7 @@
   <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata" width="980">
 </p>
 
-<h1 align="center">Aldair Zapata <sub>(Alan Neil)</sub></h1>
+<h1 align="center">Aldair Zapata</h1>
 <p align="center">
   Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
   Firebase · SwiftUI · Web & Mobile
