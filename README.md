@@ -1,7 +1,7 @@
 
 <!-- HERO -->
 <p align="center">
-  <img src="./assets/banner-ios26-hero.png" alt="Interfaces sobrias, precisas y con acabado Liquid Glass" width="980">
+  <img src="./assets/banner-liquidglass-readme.png" alt="Interfaces sobrias, precisas y con acabado Liquid Glass" width="980">
 </p>
 <h1 align="center">Aldair Zapata</h1>
 <p align="center">
