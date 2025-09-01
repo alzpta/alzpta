@@ -1,8 +1,8 @@
+
 <!-- HERO -->
 <p align="center">
-  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata" width="980">
+  <img src="./assets/banner-ios26.gif" alt="Aldair Zapata · Alan Neil — Liquid Glass iOS 26" width="980">
 </p>
-
 <h1 align="center">Aldair Zapata</h1>
 <p align="center">
   Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
