@@ -1,12 +1,12 @@
-<!-- Banner -->
+<!-- Banner Animado -->
 <p align="center">
-  <img src="./assets/portfolio-pro.png" alt="Aldair Zapata · Alan Neil" width="980">
+  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata · Alan Neil" width="980">
 </p>
 
-<h1 align="center">Hola, soy Aldair Zapata <sub>(aka Alan Neil)</sub> 👋</h1>
+<h1 align="center">Aldair Zapata <sub>(Alan Neil)</sub></h1>
 <p align="center">
-  Ingeniero Informático · UX/UI + Fullstack · <b>Liquid Glass Aesthetics</b><br>
-  Apps con Firebase · SwiftUI · Web & Mobile
+  Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
+  Firebase · SwiftUI · Web & Mobile
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 ---
 
 ## ✨ Sobre mí
-- Diseño y desarrollo productos con estética **Liquid Glass** y enfoque **accesible** y **rápido**.  
-- Construyo en **HTML/CSS/JS**, **Firebase (Auth, Firestore, Storage, FCM)** y **SwiftUI**.  
-- También creo música como **Alan Neil**, donde mezclo narrativa + sonido + visual.  
+- Diseño y desarrollo productos con estética **Liquid Glass** (sobrio, premium, accesible y rápido).  
+- Stack: **HTML/CSS/JS**, **Firebase (Auth, Firestore, Storage, FCM)** y **SwiftUI**.  
+- También creo música como **Alan Neil** (narrativa + sonido + visual).
 
 ---
 
@@ -32,7 +32,7 @@
     <td width="33%">
       <h3 align="center">📖 Carta Nomo</h3>
       <a href="https://alzpta.github.io/Carta-Nomo/">
-        <img src="./assets/carta-nomo-pro.png" alt="Carta Nomo" width="100%"/>
+        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo" width="100%"/>
       </a>
       <p align="center">
         App interactiva para visualizar, editar y escuchar palabras (1–100).<br>
@@ -71,7 +71,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">&nbsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">&nbsp;
@@ -85,7 +84,6 @@
 ---
 
 ## 📊 Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alzpta&show_icons=true&theme=transparent&hide_title=true" alt="Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=alzpta&theme=transparent&hide_border=false" alt="Streak" />
@@ -94,7 +92,6 @@
 ---
 
 ## 🎵 Alan Neil
-
 <p align="center">
   <a href="https://open.spotify.com/"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-Escuchar-1DB954?logo=spotify&logoColor=white&style=for-the-badge"></a>
   <a href="https://alanneil.bandcamp.com"><img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-Explorar-629AA9?logo=bandcamp&logoColor=white&style=for-the-badge"></a>
@@ -106,4 +103,4 @@
 ## 📬 Contacto
 - 📍 Barcelona, España  
 - ✉️ [alzpta@gmail.com](mailto:alzpta@gmail.com)  
-- 🌐 [Portfolio](https://alzpta.github.io/)  
+- 🌐 [Portfolio](https://alzpta.github.io/)
