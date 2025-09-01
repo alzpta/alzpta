@@ -21,7 +21,7 @@
 ## ✨ Sobre mí
 - Diseño y desarrollo productos con estética **Liquid Glass** (sobrio, premium y accesible).
 - Stack: **HTML/CSS/JS**, **Firebase (Auth, Firestore, Storage, FCM)** y **SwiftUI**.
-- También creo música como **Alan Neil** (narrativa + sonido + visual).
+
 
 ---
 
