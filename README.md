@@ -5,11 +5,29 @@
 </p>
 ## 📑 Índice
 
-- [✨ Sobre mí](#-sobre-mí)
-- [🚀 Proyectos Destacados](#-proyectos-destacados)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 GitHub Stats](#-github-stats)
-- [📬 Contacto](#-contacto)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#-sobre-mí">✨<br><b>Sobre mí</b></a>
+    </td>
+    <td align="center">
+      <a href="#-proyectos-destacados">🚀<br><b>Proyectos</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#-tech-stack">🛠️<br><b>Tech Stack</b></a>
+    </td>
+    <td align="center">
+      <a href="#-github-stats">📊<br><b>Stats</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="#-contacto">📬<br><b>Contacto</b></a>
+    </td>
+  </tr>
+</table>
 <h1 align="center">Aldair Zapata</h1>
 <p align="center">
   Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
