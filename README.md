@@ -1,14 +1,15 @@
 <!-- Banner Animado -->
 <p align="center">
-  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata" width="980">
+  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata · Alan Neil — Liquid Glass" width="980">
 </p>
 
-<h1 align="center">Aldair Zapata</h1>
+<h1 align="center">Aldair Zapata <sub>(Alan Neil)</sub></h1>
 <p align="center">
   Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
   Firebase · SwiftUI · Web & Mobile
 </p>
 
+<!-- Quick Links -->
 <p align="center">
   <a href="mailto:alzpta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alzpta%40gmail.com-0b6cff?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://alzpta.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -19,8 +20,8 @@
 ---
 
 ## ✨ Sobre mí
-- Diseño y desarrollo productos con estética **Liquid Glass** (sobrio, premium, accesible y rápido).  
-- Stack: **HTML/CSS/JS**, **Firebase (Auth, Firestore, Storage, FCM)** y **SwiftUI**.  
+- Diseño y desarrollo productos con estética **Liquid Glass** (sobrio, premium, accesible y rápido).
+- Stack: **HTML/CSS/JS**, **Firebase (Auth, Firestore, Storage, FCM)** y **SwiftUI**.
 - También creo música como **Alan Neil** (narrativa + sonido + visual).
 
 ---
@@ -32,37 +33,37 @@
     <td width="33%">
       <h3 align="center">📖 Carta Nomo</h3>
       <a href="https://alzpta.github.io/Carta-Nomo/">
-        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo" width="100%"/>
+        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo — Demo" width="100%"/>
       </a>
       <p align="center">
         App interactiva para visualizar, editar y escuchar palabras (1–100).<br>
         <sub><b>Firebase</b> · HTML · CSS · JavaScript</sub><br>
-        <a href="https://alzpta.github.io/Carta-Nomo/">Demo</a> · 
-        <a href="https://github.com/alzpta/Carta-Nomo">Código</a>
+        <a href="https://alzpta.github.io/Carta-Nomo/"><img alt="Demo" src="https://img.shields.io/badge/DEMO-▶-0ea5e9?style=for-the-badge"></a>
+        <a href="https://github.com/alzpta/Carta-Nomo"><img alt="Código" src="https://img.shields.io/badge/CÓDIGO-GitHub-111827?style=for-the-badge&logo=github"></a>
       </p>
     </td>
     <td width="33%">
       <h3 align="center">🧑‍⚕️ CuidApp</h3>
       <a href="https://alzpta.github.io/CuidApp/">
-        <img src="./assets/cuidapp-pro.png" alt="CuidApp" width="100%"/>
+        <img src="./assets/cuidapp-anim.gif" alt="CuidApp — Demo" width="100%"/>
       </a>
       <p align="center">
         Conecta familias y cuidadores. Verificación, chat, pagos.<br>
         <sub><b>SwiftUI</b> · Firebase · Stripe</sub><br>
-        <a href="https://alzpta.github.io/CuidApp/">Ver más</a> · 
-        <a href="https://github.com/alzpta/CuidApp">Código</a>
+        <a href="https://alzpta.github.io/CuidApp/"><img alt="Ver más" src="https://img.shields.io/badge/VER%20MÁS-▶-0ea5e9?style=for-the-badge"></a>
+        <a href="https://github.com/alzpta/CuidApp"><img alt="Código" src="https://img.shields.io/badge/CÓDIGO-GitHub-111827?style=for-the-badge&logo=github"></a>
       </p>
     </td>
     <td width="33%">
       <h3 align="center">🌐 Portfolio Liquid Glass</h3>
       <a href="https://alzpta.github.io/">
-        <img src="./assets/portfolio-pro.png" alt="Portfolio Liquid Glass" width="100%"/>
+        <img src="./assets/portfolio-pro.png" alt="Portfolio Liquid Glass — Web" width="100%"/>
       </a>
       <p align="center">
         Web personal con glassmorphism sobrio y rendimiento alto.<br>
         <sub>HTML · CSS · JavaScript</sub><br>
-        <a href="https://alzpta.github.io/">Visitar</a> · 
-        <a href="https://github.com/alzpta/alzpta.github.io">Código</a>
+        <a href="https://alzpta.github.io/"><img alt="Visitar" src="https://img.shields.io/badge/VISITAR-▶-0ea5e9?style=for-the-badge"></a>
+        <a href="https://github.com/alzpta/alzpta.github.io"><img alt="Código" src="https://img.shields.io/badge/CÓDIGO-GitHub-111827?style=for-the-badge&logo=github"></a>
       </p>
     </td>
   </tr>
@@ -85,8 +86,17 @@
 
 ## 📊 Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alzpta&show_icons=true&theme=transparent&hide_title=true" alt="Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=alzpta&theme=transparent&hide_border=false" alt="Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alzpta&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=alzpta&theme=transparent&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎵 Alan Neil
+<p align="center">
+  <a href="https://open.spotify.com/"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-Escuchar-1DB954?logo=spotify&logoColor=white&style=for-the-badge"></a>
+  <a href="https://alanneil.bandcamp.com"><img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-Explorar-629AA9?logo=bandcamp&logoColor=white&style=for-the-badge"></a>
+  <a href="https://youtube.com/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Videos-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
