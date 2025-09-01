@@ -1,5 +1,4 @@
-# 👋 Hola, soy Aldair Zapata (aka Alan Neil)  
-
+# 👋 Hola, soy Aldair Zapata 
 💡 Ingeniero Informático y Creador Digital, construyendo apps y experiencias con estética **Liquid Glass**.  
 🚀 Me muevo entre el **desarrollo fullstack**, el **diseño UX/UI** y la **música**.  
 
