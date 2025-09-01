@@ -21,18 +21,24 @@
 ## ✨ Sobre mí
 - Desarrollo productos digitales con estética **Liquid Glass**, sobrios y accesibles.  
 - Mi stack combina **Firebase**, **SwiftUI** y **tecnologías web modernas**.  
-- Como **Alan Neil**, creo música donde se cruzan narrativa, sonido y visual.
+- Como **Alan Neil**, creo música donde se cruzan narrativa, sonido y visual.  
 
 ---
 
 ## 🚀 Proyectos Destacados
 
+<!-- Marquesina animada -->
+<p align="center">
+  <img src="./assets/featured-marquee.gif" alt="Proyectos destacados — strip animado" width="980">
+</p>
+
+<!-- Grid con tarjetas animadas -->
 <table>
   <tr>
     <td width="33%">
       <h3 align="center">📖 Carta Nomo</h3>
       <a href="https://alzpta.github.io/Carta-Nomo/">
-        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo Demo" width="100%"/>
+        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo — Demo" width="100%"/>
       </a>
       <p align="center">
         App interactiva para aprender números (1–100).<br>
@@ -43,10 +49,11 @@
         <a href="https://github.com/alzpta/Carta-Nomo">💻 Código</a>
       </p>
     </td>
+
     <td width="33%">
       <h3 align="center">🧑‍⚕️ CuidApp</h3>
       <a href="https://alzpta.github.io/CuidApp/">
-        <img src="./assets/cuidapp-anim.gif" alt="CuidApp Demo" width="100%"/>
+        <img src="./assets/cuidapp-anim.gif" alt="CuidApp — Demo" width="100%"/>
       </a>
       <p align="center">
         Conecta familias y cuidadores con chat y pagos.<br>
@@ -57,10 +64,11 @@
         <a href="https://github.com/alzpta/CuidApp">💻 Código</a>
       </p>
     </td>
+
     <td width="33%">
       <h3 align="center">🌐 Portfolio</h3>
       <a href="https://alzpta.github.io/">
-        <img src="./assets/portfolio-pro.png" alt="Portfolio Liquid Glass" width="100%"/>
+        <img src="./assets/portfolio-card-anim.gif" alt="Portfolio — Web" width="100%"/>
       </a>
       <p align="center">
         Mi sitio web personal con diseño glassmorphism.<br>
