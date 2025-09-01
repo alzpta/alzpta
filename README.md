@@ -50,7 +50,7 @@
     <td width="33%">
       <h3 align="center">🧑‍⚕️ CuidApp</h3>
       <a href="https://alzpta.github.io/CuidApp/">
-        <img src="./assets/cuidapp-anim.gif" alt="CuidApp — Demo" width="100%"/>
+        <img src="./assets/cuidapp-pro.png" alt="CuidApp — Demo" width="100%"/>
       </a>
       <p align="center">
         Conecta familias y cuidadores con chat y pagos.<br>
