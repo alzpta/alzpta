@@ -97,14 +97,6 @@
 
 ---
 
-## 🎵 Alan Neil
-<p align="center">
-  <a href="https://open.spotify.com/"><img src="https://img.shields.io/badge/Spotify-Escuchar-1DB954?logo=spotify&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://alanneil.bandcamp.com"><img src="https://img.shields.io/badge/Bandcamp-Explorar-629AA9?logo=bandcamp&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-Videos-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/></a>
-</p>
-
----
 
 ## 📬 Contacto
 📍 Barcelona, España  
