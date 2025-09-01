@@ -38,7 +38,7 @@
     <td width="33%">
       <h3 align="center">📖 Carta Nomo</h3>
       <a href="https://alzpta.github.io/Carta-Nomo/">
-        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo — Demo" width="100%"/>
+        <img src="./assets/carta-nomo-pro.png" alt="Carta Nomo — Demo" width="100%"/>
       </a>
       <p align="center">
         App interactiva para aprender números (1–100).<br>
