@@ -102,3 +102,10 @@
 📍 Barcelona, España  
 ✉️ [alzpta@gmail.com](mailto:alzpta@gmail.com)  
 🌐 [Portfolio](https://alzpta.github.io/)
+
+---
+
+<p align="center">
+  <img src="./assets/underline-anim.gif" alt="" width="980"><br/>
+  <img src="./assets/footer-sign-anim.gif" alt="© 2025 Aldair Zapata · Alan Neil" width="420">
+</p>
