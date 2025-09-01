@@ -14,7 +14,7 @@
   <a href="mailto:alzpta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alzpta%40gmail.com-0b6cff?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://alzpta.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.tiktok.com/@alzpt?lang=es"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-@alzpta-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.instagram.com/alzpta/"><img alt="Instagram"></a>
+  <a href="https://www.instagram.com/alzpta/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@alanneil-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
