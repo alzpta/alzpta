@@ -29,21 +29,6 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
----
-
-## 🎵 También soy **Alan Neil**  
-
-🎶 Proyecto musical donde exploro el sonido, la narrativa y la estética visual.  
-Puedes escucharme y seguirme aquí:  
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/)  
-[![Bandcamp](https://img.shields.io/badge/Bandcamp-629AA9?logo=bandcamp&logoColor=white)](https://alanneil.bandcamp.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/alanneil)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@alzpta)  
-
----
-
 ## 📫 Contacto  
 
 📍 Barcelona, España  
