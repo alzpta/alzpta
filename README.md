@@ -1,15 +1,14 @@
-<!-- Banner Animado -->
+<!-- Hero -->
 <p align="center">
-  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata · Alan Neil — Liquid Glass" width="980">
+  <img src="./assets/portfolio-anim.gif" alt="Aldair Zapata · Alan Neil" width="980">
 </p>
 
-<h1 align="center">Aldair Zapata <sub>(Alan Neil)</sub></h1>
+<h1 align="center">👋 Hola, soy Aldair Zapata <sub>(Alan Neil)</sub></h1>
 <p align="center">
-  Ingeniero Informático · UX/UI · Full-Stack · <b>Liquid Glass Aesthetics</b><br>
-  Firebase · SwiftUI · Web & Mobile
+  Ingeniero Informático · UX/UI · Full-Stack<br>
+  <b>Liquid Glass Aesthetics</b> · Firebase · SwiftUI · Web & Mobile
 </p>
 
-<!-- Quick Links -->
 <p align="center">
   <a href="mailto:alzpta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alzpta%40gmail.com-0b6cff?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://alzpta.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visitar-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -20,9 +19,9 @@
 ---
 
 ## ✨ Sobre mí
-- Diseño y desarrollo productos con estética **Liquid Glass** (sobrio, premium, accesible y rápido).
-- Stack: **HTML/CSS/JS**, **Firebase (Auth, Firestore, Storage, FCM)** y **SwiftUI**.
-- También creo música como **Alan Neil** (narrativa + sonido + visual).
+- Desarrollo productos digitales con estética **Liquid Glass**, sobrios y accesibles.  
+- Mi stack combina **Firebase**, **SwiftUI** y **tecnologías web modernas**.  
+- Como **Alan Neil**, creo música donde se cruzan narrativa, sonido y visual.
 
 ---
 
@@ -33,37 +32,43 @@
     <td width="33%">
       <h3 align="center">📖 Carta Nomo</h3>
       <a href="https://alzpta.github.io/Carta-Nomo/">
-        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo — Demo" width="100%"/>
+        <img src="./assets/carta-nomo-anim.gif" alt="Carta Nomo Demo" width="100%"/>
       </a>
       <p align="center">
-        App interactiva para visualizar, editar y escuchar palabras (1–100).<br>
-        <sub><b>Firebase</b> · HTML · CSS · JavaScript</sub><br>
-        <a href="https://alzpta.github.io/Carta-Nomo/"><img alt="Demo" src="https://img.shields.io/badge/DEMO-▶-0ea5e9?style=for-the-badge"></a>
-        <a href="https://github.com/alzpta/Carta-Nomo"><img alt="Código" src="https://img.shields.io/badge/CÓDIGO-GitHub-111827?style=for-the-badge&logo=github"></a>
+        App interactiva para aprender números (1–100).<br>
+        <sub><b>Firebase</b> · HTML · CSS · JavaScript</sub>
+      </p>
+      <p align="center">
+        <a href="https://alzpta.github.io/Carta-Nomo/">🔗 Demo</a> · 
+        <a href="https://github.com/alzpta/Carta-Nomo">💻 Código</a>
       </p>
     </td>
     <td width="33%">
       <h3 align="center">🧑‍⚕️ CuidApp</h3>
       <a href="https://alzpta.github.io/CuidApp/">
-        <img src="./assets/cuidapp-anim.gif" alt="CuidApp — Demo" width="100%"/>
+        <img src="./assets/cuidapp-anim.gif" alt="CuidApp Demo" width="100%"/>
       </a>
       <p align="center">
-        Conecta familias y cuidadores. Verificación, chat, pagos.<br>
-        <sub><b>SwiftUI</b> · Firebase · Stripe</sub><br>
-        <a href="https://alzpta.github.io/CuidApp/"><img alt="Ver más" src="https://img.shields.io/badge/VER%20MÁS-▶-0ea5e9?style=for-the-badge"></a>
-        <a href="https://github.com/alzpta/CuidApp"><img alt="Código" src="https://img.shields.io/badge/CÓDIGO-GitHub-111827?style=for-the-badge&logo=github"></a>
+        Conecta familias y cuidadores con chat y pagos.<br>
+        <sub><b>SwiftUI</b> · Firebase · Stripe</sub>
+      </p>
+      <p align="center">
+        <a href="https://alzpta.github.io/CuidApp/">🔗 Ver más</a> · 
+        <a href="https://github.com/alzpta/CuidApp">💻 Código</a>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">🌐 Portfolio Liquid Glass</h3>
+      <h3 align="center">🌐 Portfolio</h3>
       <a href="https://alzpta.github.io/">
-        <img src="./assets/portfolio-pro.png" alt="Portfolio Liquid Glass — Web" width="100%"/>
+        <img src="./assets/portfolio-pro.png" alt="Portfolio Liquid Glass" width="100%"/>
       </a>
       <p align="center">
-        Web personal con glassmorphism sobrio y rendimiento alto.<br>
-        <sub>HTML · CSS · JavaScript</sub><br>
-        <a href="https://alzpta.github.io/"><img alt="Visitar" src="https://img.shields.io/badge/VISITAR-▶-0ea5e9?style=for-the-badge"></a>
-        <a href="https://github.com/alzpta/alzpta.github.io"><img alt="Código" src="https://img.shields.io/badge/CÓDIGO-GitHub-111827?style=for-the-badge&logo=github"></a>
+        Mi sitio web personal con diseño glassmorphism.<br>
+        <sub>HTML · CSS · JavaScript</sub>
+      </p>
+      <p align="center">
+        <a href="https://alzpta.github.io/">🔗 Visitar</a> · 
+        <a href="https://github.com/alzpta/alzpta.github.io">💻 Código</a>
       </p>
     </td>
   </tr>
@@ -73,35 +78,35 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">&nbsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">&nbsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=for-the-badge">&nbsp;
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=111&style=for-the-badge">&nbsp;
-  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white&style=for-the-badge">&nbsp;
-  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge">&nbsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=111&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alzpta&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=alzpta&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alzpta&show_icons=true&theme=transparent&hide_title=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=alzpta&theme=transparent&hide_border=false"/>
 </p>
 
 ---
 
 ## 🎵 Alan Neil
 <p align="center">
-  <a href="https://open.spotify.com/"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-Escuchar-1DB954?logo=spotify&logoColor=white&style=for-the-badge"></a>
-  <a href="https://alanneil.bandcamp.com"><img alt="Bandcamp" src="https://img.shields.io/badge/Bandcamp-Explorar-629AA9?logo=bandcamp&logoColor=white&style=for-the-badge"></a>
-  <a href="https://youtube.com/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Videos-FF0000?logo=youtube&logoColor=white&style=for-the-badge"></a>
+  <a href="https://open.spotify.com/"><img src="https://img.shields.io/badge/Spotify-Escuchar-1DB954?logo=spotify&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://alanneil.bandcamp.com"><img src="https://img.shields.io/badge/Bandcamp-Explorar-629AA9?logo=bandcamp&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-Videos-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---
 
 ## 📬 Contacto
-- 📍 Barcelona, España  
-- ✉️ [alzpta@gmail.com](mailto:alzpta@gmail.com)  
-- 🌐 [Portfolio](https://alzpta.github.io/)
+📍 Barcelona, España  
+✉️ [alzpta@gmail.com](mailto:alzpta@gmail.com)  
+🌐 [Portfolio](https://alzpta.github.io/)
