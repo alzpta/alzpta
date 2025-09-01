@@ -62,7 +62,7 @@
     <td width="33%">
       <h3 align="center">🌐 Portfolio</h3>
       <a href="https://alzpta.github.io/">
-        <img src="./assets/portfolio-card-anim.gif" alt="Portfolio — Web" width="100%"/>
+        <img src="./assets/portfolio-icon.png" alt="Portfolio — Web" width="100%"/>
       </a>
       <p align="center">
         Mi sitio web personal con diseño glassmorphism.<br>
